@@ -128,6 +128,21 @@ The resulting score ranges from 1 to 25.
 
 These thresholds are defined for this portfolio exercise. Actual organizations establish their own risk criteria, risk appetite, escalation rules, and approval authorities.
 
+## Vendor Due Diligence Questionnaire
+
+### Data Handling and Access Management
+
+The following questions will be used to understand what information CloudDocs processes and how access to that information is controlled.
+
+| ID | Assessment Question | Evidence Requested |
+|---|---|---|
+| DD-01 | What types of company data will CloudDocs store or process? | Data classification and data-flow documentation |
+| DD-02 | Which CloudDocs employees or subcontractors can access company data, and under what circumstances? | Access control policy and support access procedures |
+| DD-03 | How are user permissions assigned and restricted according to job responsibilities? | IAM policy or role and permission matrix |
+| DD-04 | Is multifactor authentication required for employees and privileged accounts? | Authentication policy or configuration evidence |
+| DD-05 | How frequently is access reviewed, and how is unnecessary access removed? | Access review procedure or a sample review record |
+
+**Assessment note:** No vendor responses or supporting evidence have been received at this stage. These questions identify the information required for assessment; they do not establish that CloudDocs has a security deficiency.
 ### Evidence and Limitations
 
 - Vendor claims should be distinguished from independently verified evidence.

@@ -92,3 +92,50 @@ The following information must be confirmed before finalizing the vendor's criti
 - Contractual, legal, and regulatory obligations
 
 **Assessment status:** Preliminary. The rating is based on scenario assumptions and has not been validated through vendor evidence.
+
+## Risk Assessment Methodology
+
+### Purpose
+
+This methodology establishes a consistent process for identifying, evaluating, prioritizing, and tracking cybersecurity risks associated with CloudDocs Inc.
+
+The assessment is designed for portfolio and educational purposes. Ratings and findings are based on explicitly stated scenario assumptions unless supporting evidence is documented.
+
+### Assessment Stages
+
+1. **Inherent risk assessment:** Evaluate risk before considering the effectiveness of security controls.
+2. **Control assessment:** Review available evidence of relevant security controls and identify control gaps.
+3. **Residual risk assessment:** Evaluate the remaining risk after considering verified control effectiveness.
+4. **Risk treatment:** Recommend mitigation, risk avoidance, risk transfer, or formal risk acceptance as appropriate.
+5. **Ongoing monitoring:** Track remediation actions, material changes, and new risk information.
+
+### Likelihood and Impact Scoring
+
+Likelihood and impact are each scored on a scale from 1 to 5. The definitions and rationale for individual scores must be documented.
+
+**Risk Score = Likelihood × Impact**
+
+The resulting score ranges from 1 to 25.
+
+### Project Risk Rating Thresholds
+
+| Score | Rating | General Response |
+|---|---|---|
+| 1–4 | Low | Document and monitor |
+| 5–9 | Moderate | Evaluate mitigation and track agreed actions |
+| 10–16 | High | Prioritize mitigation and escalate for review |
+| 17–25 | Critical | Prompt escalation and formal review before approval or continued use |
+
+These thresholds are defined for this portfolio exercise. Actual organizations establish their own risk criteria, risk appetite, escalation rules, and approval authorities.
+
+### Evidence and Limitations
+
+- Vendor claims should be distinguished from independently verified evidence.
+- Missing evidence must be documented as an information gap, not automatically treated as proof of a failed control.
+- Risk ratings must include a rationale that considers business context and potential consequences.
+- Control effectiveness must not be assumed without adequate supporting evidence.
+- Risk acceptance requires authorization from an appropriate decision-maker under the applicable organization's policy.
+
+### Assessment Status
+
+This is a preliminary assessment of a fictional vendor. Findings and ratings will be refined as the scenario's due diligence evidence is developed.

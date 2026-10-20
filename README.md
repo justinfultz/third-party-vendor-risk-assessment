@@ -22,7 +22,7 @@ The objective of this assessment is to evaluate the vendor’s cybersecurity pos
 
 CloudDocs Inc. is a fictional vendor created for this project. No real company is being assessed.
 
-The assessment will begin with the vendor's general security and business risks. I will then use hypothetical due diligence evidence to practice evaluating controls, documenting findings, and reassessing risk when circumstances change.
+The assessment began with the vendor's general security and business risks. Hypothetical due diligence evidence is being used to practice evaluating controls, documenting findings, and reassessing risk when circumstances change.
 
 ## Frameworks and Concepts
 
@@ -108,7 +108,7 @@ The assessment is designed for portfolio and educational purposes. Ratings and f
 
 1. **Inherent risk assessment:** Evaluate risk before considering the effectiveness of security controls.
 2. **Control assessment:** Review available evidence of relevant security controls and identify control gaps.
-3. **Residual risk assessment:** Evaluate the remaining risk after considering verified control effectiveness.
+3. **Residual risk assessment:** Evaluate the remaining risk after considering available evidence of control effectiveness, documenting any limitations and assumptions.
 4. **Risk treatment:** Recommend mitigation, risk avoidance, risk transfer, or formal risk acceptance as appropriate.
 5. **Ongoing monitoring:** Track remediation actions, material changes, and new risk information.
 
@@ -155,7 +155,9 @@ The following questionnaire and evidence request matrix evaluates how CloudDocs 
 
 ### Assessment Status
 
-This is a preliminary assessment of a fictional vendor. Findings and ratings will be refined as the scenario's due diligence evidence is developed.
+### Assessment Status
+
+This is a developing assessment of a fictional vendor based on scenario assumptions and hypothetical evidence. The risk register currently documents three risks (R-001 through R-003). Some due diligence items remain pending, residual risk scores are provisional where indicated, and all three risks remain open pending review and a decision by the authorized risk owner.
 
 ## Project Documents
 

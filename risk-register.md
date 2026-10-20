@@ -36,6 +36,12 @@ CloudDocs introduced a process requiring reviewers to document the accounts chec
 
 **Inherent risk score:** 12/25 — High (3 × 4).
 
-**Residual risk score:** To be assessed.
+**Residual likelihood:** 2/5 — Unlikely (preliminary).
 
-**Recommended next step:** Evaluate the likelihood and impact of unauthorized access, taking the available control evidence into account.
+**Residual impact:** 4/5 — Major.
+
+**Residual risk score:** 8/25 — Moderate (2 × 4).
+
+**Scoring rationale:** The residual likelihood is provisionally lower because the scenario includes MFA, restricted administrative access, and documented access reviews. The score remains preliminary because the effectiveness and scope of all relevant controls have not been fully established.
+
+**Risk acceptance:** Pending review by the authorized risk owner. The Moderate rating does not constitute approval to use the vendor.

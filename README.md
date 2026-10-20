@@ -20,8 +20,6 @@ The objective of this assessment is to evaluate the vendor’s cybersecurity pos
 
 ## Project Scope
 
-CloudDocs Inc. is a fictional vendor created for this project. No real company is being assessed.
-
 The assessment began with the vendor's general security and business risks. Hypothetical due diligence evidence is being used to practice evaluating controls, documenting findings, and reassessing risk when circumstances change.
 
 ## Frameworks and Concepts

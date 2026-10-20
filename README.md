@@ -14,8 +14,8 @@ The objective of this assessment is to evaluate the vendor’s cybersecurity pos
 - [x] **Vendor Profile & Business Criticality Assessment**
 - [x] **Risk Scoring Methodology & 5x5 Matrix**
 - [x] **Vendor Due Diligence Questionnaire (DDQ)**
-- [ ] **Vendor Risk Register & Mitigation Log** (`/docs/risk-register.md`)
-- [ ] **Vendor Change Management Assessment** (`/docs/subcontractor-impact.md`)
+- [x] **Vendor Risk Register & Mitigation Log** (`/docs/risk-register.md`)
+- [x] **Vendor Change Management Assessment** (`/docs/subcontractor-impact.md`)
 
 
 ## Project Scope
@@ -35,7 +35,7 @@ The assessment will begin with the vendor's general security and business risks.
 
 ## Project Status
 
-In progress. The vendor scenario, preliminary criticality assessment, risk scoring approach, and initial due diligence questions are documented. The next step is to develop the risk register and apply the methodology to specific risks.
+The vendor scenario, preliminary criticality assessment, risk scoring approach, and initial due diligence questions are documented. The next step is to develop the risk register and apply the methodology to specific risks.
 
 ## Vendor Scenario
 

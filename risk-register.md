@@ -95,3 +95,17 @@ CloudDocs subsequently amended the contract. Three incident records covering the
 **Scoring rationale:** The likelihood rating was reduced based on the amended contractual requirement and evidence that three customer-notifiable incidents during the review period met the required timeframe. Impact remains unchanged because a future notification failure could still have major consequences.
 
 **Risk acceptance:** Pending review by the authorized risk owner. The Moderate rating does not constitute approval to use the vendor.
+
+### Risk Treatment and Approval
+
+**Analyst recommendation:** The risk owner should review the residual risk score of 8/25 (Moderate) against the organization's risk tolerance and approval requirements.
+
+**Recommended treatment:** Accept the documented safeguards provisionally, subject to the organization's approval process and any additional requirements identified by the risk owner.
+
+**Risk owner decision:** Pending.
+
+**Approval date:** Not yet approved.
+
+**Review requirements:** Continue monitoring CloudDocs' compliance with contractual incident-notification requirements and reassess if a notification failure, contract change, or significant security incident occurs.
+
+**Risk status:** Open — awaiting risk owner review and an approval decision.

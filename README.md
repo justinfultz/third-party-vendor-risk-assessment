@@ -155,8 +155,6 @@ The following questionnaire and evidence request matrix evaluates how CloudDocs 
 
 ### Assessment Status
 
-### Assessment Status
-
 This is a developing assessment of a fictional vendor based on scenario assumptions and hypothetical evidence. The risk register currently documents three risks (R-001 through R-003). Some due diligence items remain pending, residual risk scores are provisional where indicated, and all three risks remain open pending review and a decision by the authorized risk owner.
 
 ## Project Documents

@@ -155,3 +155,7 @@ The following questions will be used to understand what information CloudDocs pr
 ### Assessment Status
 
 This is a preliminary assessment of a fictional vendor. Findings and ratings will be refined as the scenario's due diligence evidence is developed.
+
+## Related Assessment
+
+[CloudDocs AI Subcontractor Change Assessment](ai-subcontractor-change-assessment.md)

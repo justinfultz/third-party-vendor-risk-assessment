@@ -55,3 +55,43 @@ CloudDocs introduced a process requiring reviewers to document the accounts chec
 **Risk owner decision:** Pending.
 
 **Risk status:** Open — awaiting risk owner review and an approval decision.
+
+
+## Risk R-002: Inadequate Incident Notification
+
+**Risk description**
+
+If CloudDocs experiences a security incident and fails to notify the customer within the required timeframe, the customer may be unable to respond promptly, contain the incident, or meet its own legal and regulatory obligations.
+
+**Potential business impact**
+
+Delayed notification could increase the impact of a data breach, prolong exposure of confidential information, and lead to regulatory, legal, or reputational consequences.
+
+**Existing controls**
+
+- CloudDocs has an incident-response policy.
+- The contract was amended to specify a defined customer notification timeframe.
+
+**Evidence and findings**
+
+The initial contract required notification "promptly" without defining a specific timeframe. This ambiguity was documented as a finding.
+
+CloudDocs subsequently amended the contract. Three incident records covering the previous 12 months showed that customer-notifiable incidents were reported within the contractual timeframe. The records were complete and met the agreed closure criteria.
+
+**Corrective action status:** Closed — the contractual ambiguity was addressed, and the required supporting evidence met the agreed closure criteria.
+
+**Inherent likelihood:** 3/5 — Possible (provisional).
+
+**Inherent impact:** 4/5 — Major (provisional).
+
+**Inherent risk score:** 12/25 — High (3 × 4).
+
+**Residual likelihood:** 2/5 — Unlikely.
+
+**Residual impact:** 4/5 — Major.
+
+**Residual risk score:** 8/25 — Moderate (2 × 4).
+
+**Scoring rationale:** The likelihood rating was reduced based on the amended contractual requirement and evidence that three customer-notifiable incidents during the review period met the required timeframe. Impact remains unchanged because a future notification failure could still have major consequences.
+
+**Risk acceptance:** Pending review by the authorized risk owner. The Moderate rating does not constitute approval to use the vendor.

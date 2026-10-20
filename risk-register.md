@@ -1,5 +1,13 @@
 # CloudDocs Vendor Risk Register
 
+## Executive Summary & Tracker
+
+| Risk ID | Threat Category | Inherent Score | Key Safeguards Evaluated | Residual Score | Status |
+| :--- | :--- | :---: | :--- | :---: | :---: |
+| **R-001** | Identity & Access Control | **12 (High)** | MFA Enforced, Access Review Logs Corrected | **8 (Mod)** | Open (Pending Owner Sign-off) |
+| **R-002** | Incident Response / Notification | **12 (High)** | Contractual SLA Amendment, 12-Mo Incident Logs | **8 (Mod)** | Open (Pending Owner Sign-off) |
+| **R-003** | AI Sub-processor Data Privacy | **12 (High)** | No-Training Config Verified, 30-Day Auto-Delete | **8 (Mod)** | Open (Pending Owner Sign-off) |
+
 ## Purpose
 
 This register records the cybersecurity risks identified during the assessment of the fictional CloudDocs Inc. vendor. It will be used to document evidence, evaluate risk, and track follow-up actions.

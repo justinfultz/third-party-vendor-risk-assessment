@@ -45,3 +45,13 @@ CloudDocs introduced a process requiring reviewers to document the accounts chec
 **Scoring rationale:** The residual likelihood is provisionally lower because the scenario includes MFA, restricted administrative access, and documented access reviews. The score remains preliminary because the effectiveness and scope of all relevant controls have not been fully established.
 
 **Risk acceptance:** Pending review by the authorized risk owner. The Moderate rating does not constitute approval to use the vendor.
+
+## Risk Treatment and Approval
+
+**Analyst recommendation:** The risk owner should review the preliminary residual risk score of 8/25 (Moderate) against the organization's risk tolerance and approval requirements.
+
+**Approval condition:** CloudDocs should be approved for use only after the authorized decision-maker confirms that the remaining risk is acceptable and all applicable requirements have been met.
+
+**Risk owner decision:** Pending.
+
+**Risk status:** Open — awaiting risk owner review and an approval decision.

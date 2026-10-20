@@ -151,3 +151,17 @@ For this fictional scenario, technical documentation, deletion-test evidence, an
 **Finding status:** The specified safeguards have supporting evidence in the scenario. Any finding should be closed only after its individual closure criteria have been evaluated and met.
 
 **Risk acceptance:** Pending review by the authorized risk owner. A Moderate rating does not constitute approval to use the AI feature.
+
+### Risk Treatment and Approval
+
+**Analyst recommendation:** The authorized risk owner should review the residual risk score of 8/25 (Moderate) against the organization's risk tolerance and approval requirements.
+
+**Recommended treatment:** Consider approving the AI feature only after reviewing the documented safeguards, remaining risks, and applicable approval requirements.
+
+**Risk owner decision:** Pending.
+
+**Approval date:** Not yet approved.
+
+**Review requirements:** Continue monitoring compliance with the AI processing agreement, retention and deletion requirements, and the prohibition on AI training. Reassess if the subcontractor, data-processing arrangements, or security controls change, or if a relevant security incident occurs.
+
+**Risk status:** Open — awaiting risk owner review and an approval decision.

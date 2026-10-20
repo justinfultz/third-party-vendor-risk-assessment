@@ -159,3 +159,8 @@ This is a preliminary assessment of a fictional vendor. Findings and ratings wil
 ## Related Assessment
 
 [CloudDocs AI Subcontractor Change Assessment](ai-subcontractor-change-assessment.md)
+
+## Project Documents
+
+- [CloudDocs Vendor Risk Register](risk-register.md)
+- [CloudDocs AI Subcontractor Change Assessment](ai-subcontractor-change-assessment.md)

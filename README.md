@@ -1,20 +1,22 @@
-# Third-Party Vendor Risk Assessment
+# Third-Party Vendor Risk Assessment: CloudDocs Inc.
 
-## Project Overview
+## Executive Summary
 
-For this project, I am assessing a fictional cloud document storage provider called CloudDocs Inc. The goal is to practice how a company might review a vendor before relying on it to store business information.
+This repository contains a comprehensive Third-Party Risk Management (TPRM) assessment for **CloudDocs Inc.**, a SaaS document storage and collaboration provider. 
 
-I am working through the main steps of a vendor risk assessment: identifying possible risks, requesting evidence of security controls, recording gaps, and deciding what needs to be addressed before a vendor or new service is approved.
+The objective of this assessment is to evaluate the vendor’s cybersecurity posture, establish inherent vs. residual risk scores, identify control gaps, and provide actionable remediation recommendations mapped to the **NIST Cybersecurity Framework (NIST CSF 2.0)**.
 
-This is a hands-on learning project focused on third-party risk management (TPRM) and governance, risk, and compliance (GRC).
+> **Note:** CloudDocs Inc. is a fictional vendor profile created for portfolio evaluation purposes.
 
-## Project Objectives
+---
 
-- Identify potential security risks associated with a cloud service provider.
-- Develop questions to ask the vendor and identify evidence needed to assess its controls.
-- Record risks and explain why they matter to the business.
-- Use likelihood and impact to help prioritize risks.
-- Recommend follow-up actions and document when additional approval is needed.
+## Key Assessment Deliverables
+- [x] **Vendor Profile & Business Criticality Assessment**
+- [x] **Risk Scoring Methodology & 5x5 Matrix**
+- [x] **Vendor Due Diligence Questionnaire (DDQ)**
+- [ ] **Vendor Risk Register & Mitigation Log** (`/docs/risk-register.md`)
+- [ ] **Vendor Change Management Assessment** (`/docs/subcontractor-impact.md`)
+
 
 ## Project Scope
 

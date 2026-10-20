@@ -2,37 +2,38 @@
 
 ## Project Overview
 
-This project demonstrates a structured approach to assessing the cybersecurity risks associated with a third-party vendor.
+For this project, I am assessing a fictional cloud document storage provider called CloudDocs Inc. The goal is to practice how a company might review a vendor before relying on it to store business information.
 
-Organizations rely on external vendors for software, cloud services, data storage, payment processing, and other business functions. These relationships can introduce security, privacy, operational, and compliance risks.
+I am working through the main steps of a vendor risk assessment: identifying possible risks, requesting evidence of security controls, recording gaps, and deciding what needs to be addressed before a vendor or new service is approved.
 
-The goal of this project is to evaluate a hypothetical vendor, identify potential risks, assess their severity, and recommend practical mitigation measures.
+This is a hands-on learning project focused on third-party risk management (TPRM) and governance, risk, and compliance (GRC).
 
 ## Project Objectives
 
-- Identify cybersecurity risks associated with a third-party vendor.
-- Evaluate vendor security practices through a due diligence process.
-- Document risks in a risk register.
-- Prioritize risks based on likelihood and potential impact.
-- Recommend remediation actions and follow-up measures.
+- Identify potential security risks associated with a cloud service provider.
+- Develop questions to ask the vendor and identify evidence needed to assess its controls.
+- Record risks and explain why they matter to the business.
+- Use likelihood and impact to help prioritize risks.
+- Recommend follow-up actions and document when additional approval is needed.
 
 ## Project Scope
 
-This is a fictional training scenario created for educational and portfolio purposes. It does not represent an assessment of a real vendor or an actual company's security controls.
+CloudDocs Inc. is a fictional vendor created for this project. No real company is being assessed.
 
-The project will demonstrate concepts relevant to Third-Party Risk Management (TPRM), Governance, Risk & Compliance (GRC), and information security.
+The assessment will begin with the vendor's general security and business risks. I will then use hypothetical due diligence evidence to practice evaluating controls, documenting findings, and reassessing risk when circumstances change.
 
 ## Frameworks and Concepts
 
 - NIST Cybersecurity Framework (NIST CSF)
-- Risk assessment and risk scoring
-- Vendor due diligence
-- Risk registers and remediation planning
+- Third-party due diligence
+- Inherent and residual risk
+- Risk scoring and risk registers
+- Control evidence and remediation tracking
+- Risk acceptance and vendor change management
 
 ## Project Status
 
-In progress — developing the assessment methodology, vendor risk register, and remediation recommendations.# third-party-vendor-risk-assessment
-Sample vendor cybersecurity risk assessment demonstrating GRC principles, due diligence, risk scoring, and remediation planning.
+In progress. The vendor scenario, preliminary criticality assessment, risk scoring approach, and initial due diligence questions are documented. The next step is to develop the risk register and apply the methodology to specific risks.
 
 ## Vendor Scenario
 

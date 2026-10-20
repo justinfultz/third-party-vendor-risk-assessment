@@ -30,10 +30,12 @@ CloudDocs introduced a process requiring reviewers to document the accounts chec
 
 **Risk status:** Open — the overall risk still needs to be scored and evaluated.
 
-**Likelihood score:** To be assessed.
+**Inherent likelihood:** 3/5 — Possible.
 
-**Impact score:** To be assessed.
+**Inherent impact:** 4/5 — Major.
 
-**Risk score:** To be calculated.
+**Inherent risk score:** 12/25 — High (3 × 4).
+
+**Residual risk score:** To be assessed.
 
 **Recommended next step:** Evaluate the likelihood and impact of unauthorized access, taking the available control evidence into account.

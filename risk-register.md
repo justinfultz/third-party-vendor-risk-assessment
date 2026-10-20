@@ -109,3 +109,45 @@ CloudDocs subsequently amended the contract. Three incident records covering the
 **Review requirements:** Continue monitoring CloudDocs' compliance with contractual incident-notification requirements and reassess if a notification failure, contract change, or significant security incident occurs.
 
 **Risk status:** Open — awaiting risk owner review and an approval decision.
+
+
+## Risk R-003: AI Subcontractor Data Exposure
+
+**Risk description**
+
+If the external AI subcontractor accesses, retains, or uses confidential document excerpts beyond authorized purposes, sensitive information could be exposed or processed without the customer's authorization.
+
+**Potential business impact**
+
+Unauthorized disclosure could result in exposure of confidential business or personal information, legal or regulatory consequences, reputational damage, and loss of customer trust.
+
+**Existing controls**
+
+- Technical documentation describes the AI service's data-handling process and access controls.
+- A test record supports deletion of submitted text after the 30-day retention period.
+- An amended agreement defines permitted AI processing, retention and deletion requirements, prohibits AI training using submitted information, and establishes security and incident-notification obligations.
+- A test result confirms that the no-training configuration is enabled for the AI service in this scenario.
+
+**Evidence and findings**
+
+The initial assessment identified risks involving external subcontractor access, data retention, and potential use of confidential information for AI training.
+
+For this fictional scenario, technical documentation, deletion-test evidence, an amended agreement, and a test result confirming the no-training configuration were reviewed. These items support the relevant safeguards within the scope of the evidence provided, but do not establish that every possible data exposure has been eliminated.
+
+**Inherent likelihood:** 3/5 — Possible (provisional).
+
+**Inherent impact:** 4/5 — Major (provisional).
+
+**Inherent risk score:** 12/25 — High (3 × 4).
+
+**Residual likelihood:** 2/5 — Unlikely (provisional).
+
+**Residual impact:** 4/5 — Major (provisional).
+
+**Residual risk score:** 8/25 — Moderate (2 × 4).
+
+**Scoring rationale:** The residual likelihood is provisionally reduced because the scenario includes technical documentation, deletion-test evidence, contractual restrictions on permitted processing and AI training, and verification of the no-training configuration. Impact remains 4/5 because unauthorized disclosure could still have major consequences. The residual score remains subject to review by the authorized risk owner.
+
+**Finding status:** The specified safeguards have supporting evidence in the scenario. Any finding should be closed only after its individual closure criteria have been evaluated and met.
+
+**Risk acceptance:** Pending review by the authorized risk owner. A Moderate rating does not constitute approval to use the AI feature.

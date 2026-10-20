@@ -131,21 +131,20 @@ The resulting score ranges from 1 to 25.
 
 These thresholds are defined for this portfolio exercise. Actual organizations establish their own risk criteria, risk appetite, escalation rules, and approval authorities.
 
-## Vendor Due Diligence Questionnaire
+## Vendor Due Diligence Questionnaire: Data Handling & Access Management
 
-### Data Handling and Access Management
+The following questionnaire and evidence request matrix evaluates how CloudDocs Inc. handles sensitive information and enforces access controls across its cloud platform.
 
-The following questions will be used to understand what information CloudDocs processes and how access to that information is controlled.
+| ID | Control Objective | Assessment Question | Evidence Requested | Mapped Framework | Status / Finding Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **DD-01** | Data Classification | What types of company data will CloudDocs store or process? | Data classification and data-flow documentation | NIST CSF 2.0 PR.DS-01 | **Pending:** Final data categories and volume to be confirmed during due diligence. |
+| **DD-02** | Subcontractor Access | Which CloudDocs employees or subcontractors can access company data, and under what circumstances? | Access control policy and support access procedures | ISO/IEC 27001 A.8.2 | **Under Review:** Evaluated under AI Subcontractor Exposure (Ref: Risk R-003). |
+| **DD-03** | Least Privilege | How are user permissions assigned and restricted according to job responsibilities? | IAM policy or role and permission matrix | NIST CSF 2.0 PR.AA-01 | **Pending:** Awaiting vendor role-based access control matrix. |
+| **DD-04** | Identity Protection | Is multifactor authentication required for employees and privileged accounts? | Authentication policy or configuration evidence | SOC 2 Type II CC6.1 | **Verified:** Vendor reports MFA requirement enforced for employee access. |
+| **DD-05** | Access Recertification | How frequently is access reviewed, and how is unnecessary access removed? | Access review procedure or a sample review record | SOC 2 Type II CC6.3 | **Remediated:** Initial documentation weakness addressed; logs resubmitted with sign-off (Ref: Risk R-001). |
 
-| ID | Assessment Question | Evidence Requested |
-|---|---|---|
-| DD-01 | What types of company data will CloudDocs store or process? | Data classification and data-flow documentation |
-| DD-02 | Which CloudDocs employees or subcontractors can access company data, and under what circumstances? | Access control policy and support access procedures |
-| DD-03 | How are user permissions assigned and restricted according to job responsibilities? | IAM policy or role and permission matrix |
-| DD-04 | Is multifactor authentication required for employees and privileged accounts? | Authentication policy or configuration evidence |
-| DD-05 | How frequently is access reviewed, and how is unnecessary access removed? | Access review procedure or a sample review record |
+> **Assessment Note:** Missing or pending evidence is documented as an information gap rather than an automatic control failure. Vendor claims are verified against supporting artifacts prior to final risk scoring.
 
-**Assessment note:** No vendor responses or supporting evidence have been received at this stage. These questions identify the information required for assessment; they do not establish that CloudDocs has a security deficiency.
 ### Evidence and Limitations
 
 - Vendor claims should be distinguished from independently verified evidence.

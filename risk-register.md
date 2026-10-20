@@ -4,9 +4,11 @@
 
 | Risk ID | Threat Category | Inherent Score | Key Safeguards Evaluated | Residual Score | Status |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| **R-001** | Identity & Access Control | **12 (High)** | MFA Enforced, Access Review Logs Corrected | **8 (Mod)** | Open (Pending Owner Sign-off) |
-| **R-002** | Incident Response / Notification | **12 (High)** | Contractual SLA Amendment, 12-Mo Incident Logs | **8 (Mod)** | Open (Pending Owner Sign-off) |
-| **R-003** | AI Sub-processor Data Privacy | **12 (High)** | No-Training Config Verified, 30-Day Auto-Delete | **8 (Mod)** | Open (Pending Owner Sign-off) |
+| **R-001** | Identity & Access Control | **12 (High)** | Reported MFA requirement, restricted administrative access, corrected access-review documentation | **8 (Mod)** | Open (Pending Owner Sign-off) |
+| **R-002** | Incident Response / Notification | **12 (High)** | Contractual notification timeframe, three incident records reviewed | **8 (Mod)** | Open (Pending Owner Sign-off) |
+| **R-003** | AI Sub-processor Data Privacy | **12 (High)** | AI processing restrictions, no-training configuration test, 30-day deletion test | **8 (Mod)** | Open (Pending Owner Sign-off) |
+
+All risk scores are preliminary scenario assessments. Residual risk ratings and acceptance decisions remain subject to authorized risk-owner review.
 
 ## Purpose
 
@@ -36,11 +38,11 @@ CloudDocs introduced a process requiring reviewers to document the accounts chec
 
 **Corrective action status:** Closed. The agreed criteria for correcting the access-review documentation weakness have been met.
 
-**Risk status:** Open — the overall risk still needs to be scored and evaluated.
+**Risk status:** Open — residual risk assessment documented; awaiting risk-owner review and an approval decision.
 
-**Inherent likelihood:** 3/5 — Possible.
+**Inherent likelihood:** 3/5 — Possible (provisional).
 
-**Inherent impact:** 4/5 — Major.
+**Inherent impact:** 4/5 — Major (provisional).
 
 **Inherent risk score:** 12/25 — High (3 × 4).
 
@@ -108,7 +110,7 @@ CloudDocs subsequently amended the contract. Three incident records covering the
 
 **Analyst recommendation:** The risk owner should review the residual risk score of 8/25 (Moderate) against the organization's risk tolerance and approval requirements.
 
-**Recommended treatment:** Accept the documented safeguards provisionally, subject to the organization's approval process and any additional requirements identified by the risk owner.
+**Recommended treatment:** Submit the documented safeguards and residual risk assessment to the authorized risk owner for review. Formal risk acceptance remains pending until the required decision is recorded.
 
 **Risk owner decision:** Pending.
 
